@@ -1,6 +1,5 @@
-#for the assessments tab in the workbook, a macro is used from the following link:
-#https://www.ablebits.com/office-addins-blog/create-multi-select-dropdown-excel/
-#The macros is below:
+#for the assessments tab in the workbook, a macro is used from the following link:https://www.ablebits.com/office-addins-blog/create-multi-select-dropdown-excel/
+#The macro is below:
 Option Explicit
 Private Sub Worksheet_Change(ByVal Destination As Range)
 Dim DelimiterType As String
